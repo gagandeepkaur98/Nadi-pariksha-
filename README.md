@@ -60,7 +60,9 @@ Integration with deep learning models (CNNs, LSTMs) for improved accuracy.
 Deployment as a web or mobile application for wider accessibility.
 Incorporation of real-time pulse sensing devices for live diagnostics.
 Contributors
-[Your Name] – AI & ML Researcher
+[GAGANDEEP KAUR]-AI & ML Researcher
+[JUSTINA J]-AI & ML Researcher
+[NANDANI AGRAWAL]– AI & ML Researcher
 Collaborators (if any)
 License
 This project is licensed under the MIT License – feel free to use and modify it!
